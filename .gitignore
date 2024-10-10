@@ -1,4 +1,4 @@
-*.png
+data/*.png
 *.csv
 *.h5
 *.json
