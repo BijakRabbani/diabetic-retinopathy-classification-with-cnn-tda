@@ -6,4 +6,4 @@ The dataset used is the [APTOS Kaggle Blindness Detection dataset](https://www.k
 
 Additionally, the project includes a **dashboard** that enables users to upload images and get predictions on the severity of diabetic retinopathy.
 
-![Dashboard demo](/dashboard_demo.png "Dashboad demo")
+![Dashboard demo](https://github.com/BijakRabbani/diabetic-retinopathy-classification-with-cnn-tda/blob/master/dashboad_demo.png "Dashboad demo")
